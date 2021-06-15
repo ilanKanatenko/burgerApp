@@ -1,0 +1,16 @@
+.CheckOutSummary {
+  text-align: center;
+  margin: auto;
+}
+
+.CheckOutSummaryContainer {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+
+/* @media (max-width: 600px) {
+  .CheckOutSummary {
+    width: 500px;
+  }
+} */
